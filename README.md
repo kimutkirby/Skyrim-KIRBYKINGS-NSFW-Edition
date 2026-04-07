@@ -16,8 +16,17 @@
 <h4>Skyrim v1.6.1170 (WITHOUT ANNIVERSARY DLC): https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition</h4>
 <h4>Nexus Account, Premium is recommended: https://www.nexusmods.com</h4>
 
-<img width="1885" height="883" alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1771116079-1210989885.png" />
+<img width="1885" height="883" alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044960-1839293380.png" />
 
+⚔️ A COMPLETE OVERHAUL
+Touches every fiber of the game world. From the way you swing your sword to the way the world breathes around you, everything has been modernized:
+
+- Modern Visuals: This modlist uses Jiaye's Community Shaders﻿ suite to provide Screen Space Shadows, Grass Collision, and Parallax textures. It’s the cleanest, most modern look for Skyrim, optimized for high FPS and visual clarity.
+- Modern Combat: Combat is no longer a "swing and miss" affair. Powered by MCO/ADXP﻿ and the Dismemberment Framework﻿, finishing moves and heavy strikes now result in dynamic limb loss and realistic gore.
+- Living World: Overhauled cities, denser forests, and NPCs Appearances including AI Overhauls﻿.
+- Adult Immersion: OStim Standalone﻿ for seamless, interactive adult gameplay paired with TNG (The New Gentleman)﻿ and OBody NG﻿.
+- Uncompromising Detail: High-quality assets that bring the 2011 classic into 2026.
+  
 <h2>Must Do! for better Gameplay.</h2>
 <h4>Set CPU Affinity & Pagefile: https://www.nexusmods.com/skyrimspecialedition/articles/11617</h4> 
 
