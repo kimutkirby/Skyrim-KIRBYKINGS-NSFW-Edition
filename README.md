@@ -18,9 +18,8 @@
 
 <img width="1885" height="883" alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044960-1839293380.png" />
 
-⚔️ A COMPLETE OVERHAUL
+<h2>⚔️ A COMPLETE OVERHAUL</h2>
 Touches every fiber of the game world. From the way you swing your sword to the way the world breathes around you, everything has been modernized:
-
 - Modern Visuals: This modlist uses Jiaye's Community Shaders﻿ suite to provide Screen Space Shadows, Grass Collision, and Parallax textures. It’s the cleanest, most modern look for Skyrim, optimized for high FPS and visual clarity.
 - Modern Combat: Combat is no longer a "swing and miss" affair. Powered by MCO/ADXP﻿ and the Dismemberment Framework﻿, finishing moves and heavy strikes now result in dynamic limb loss and realistic gore.
 - Living World: Overhauled cities, denser forests, and NPCs Appearances including AI Overhauls﻿.
