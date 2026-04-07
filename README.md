@@ -3,6 +3,13 @@
 
 <img width="2863" height="817" alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/Kirbykings%20NSFW%20Headpage.jpg" />
 
+## 🌟LINKS
+- Nexus: https://nexusmods.com/skyrimspecialedition/mods/176216
+- Discord: https://discord.com/invite/4N4rWBFVKP
+- Load Order Library: https://loadorderlibrary.com/lists/skyrim-kirbykings-nsfw-edition-modlist
+- YouTube: https://youtube.com/@Kimuts
+- Support Me: https://paypal.com/paypalme/kimutkirby
+
 ## Hard Requirement.
 [Microsoft Visual C++ Redistributable X64](https://aka.ms/vc14/vc_redist.x64.exe)  
 [Skyrim v1.6.1170 (WITHOUT ANNIVERSARY DLC)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition)  
@@ -44,10 +51,3 @@ Touches every fiber of the game world. From the way you swing your sword to the 
 - PARALLAXGEN GUIDE: https://www.youtube.com/watch?v=9w-HJ9OFqok
 
 <img width="1885" height="883" alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044960-1839293380.png" />
-
-## 🌟LINKS
-- Nexus: https://nexusmods.com/skyrimspecialedition/mods/176216
-- Discord: https://discord.com/invite/4N4rWBFVKP
-- Load Order Library: https://loadorderlibrary.com/lists/skyrim-kirbykings-nsfw-edition-modlist
-- YouTube: https://youtube.com/@Kimuts
-- Support Me: https://paypal.com/paypalme/kimutkirby
