@@ -19,12 +19,12 @@
 <img width="1885" height="883" alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044960-1839293380.png" />
 
 <h2>⚔️ A COMPLETE OVERHAUL</h2>
-Touches every fiber of the game world. From the way you swing your sword to the way the world breathes around you, everything has been modernized:
-- Modern Visuals: This modlist uses Jiaye's Community Shaders﻿ suite to provide Screen Space Shadows, Grass Collision, and Parallax textures. It’s the cleanest, most modern look for Skyrim, optimized for high FPS and visual clarity.
-- Modern Combat: Combat is no longer a "swing and miss" affair. Powered by MCO/ADXP﻿ and the Dismemberment Framework﻿, finishing moves and heavy strikes now result in dynamic limb loss and realistic gore.
-- Living World: Overhauled cities, denser forests, and NPCs Appearances including AI Overhauls﻿.
-- Adult Immersion: OStim Standalone﻿ for seamless, interactive adult gameplay paired with TNG (The New Gentleman)﻿ and OBody NG﻿.
-- Uncompromising Detail: High-quality assets that bring the 2011 classic into 2026.
+<h3>Touches every fiber of the game world. From the way you swing your sword to the way the world breathes around you, everything has been modernized:</h3>
+<h4>- Modern Visuals: This modlist uses Jiaye's Community Shaders﻿ suite to provide Screen Space Shadows, Grass Collision, and Parallax textures. It’s the cleanest, most modern look for Skyrim, optimized for high FPS and visual clarity.</h4>
+<h4>- Modern Combat: Combat is no longer a "swing and miss" affair. Powered by MCO/ADXP﻿ and the Dismemberment Framework﻿, finishing moves and heavy strikes now result in dynamic limb loss and realistic gore.</h4>
+<h4>- Living World: Overhauled cities, denser forests, and NPCs Appearances including AI Overhauls﻿.</h4>
+<h4>- Adult Immersion: OStim Standalone﻿ for seamless, interactive adult gameplay paired with TNG (The New Gentleman)﻿ and OBody NG﻿.</h4>
+<h4>- Uncompromising Detail: High-quality assets that bring the 2011 classic into 2026.</h4>
   
 <h2>Must Do! for better Gameplay.</h2>
 <h4>Set CPU Affinity & Pagefile: https://www.nexusmods.com/skyrimspecialedition/articles/11617</h4> 
