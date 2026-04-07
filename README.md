@@ -1,12 +1,15 @@
-<h1 align="center">KIMUT Modlist (Next-Gen Visuals with Community Shaders)</h1>
+<h1 align="center">Skyrim KIRBYKINGS NSFW Edition Modlist</h1>
+<h3>The Next Generation of Skyrim Immersive Adult Adventure, designed for players who want a modern, high-fidelity Skyrim experience by leveraging the Community Shaders AIO by Jiaye, achieves stunning lighting, parallax, grass collisions and many more wohooooo!.</h3>
+
 <img width="2863" height="817" alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/Kirbykings%20NSFW%20Headpage.jpg" />
 
-<img width="2863" height="817" alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/kirbykings%20NSFW%20Media%201.png" />
 <h3>Nexus Page: https://www.nexusmods.com/skyrimspecialedition/mods/172496</h3>
 <h3>Load Order Library: https://loadorderlibrary.com/lists/kimut-modlist-next-gen-visuals-with-community-shaders</h3>
 <h3>Discord: https://discord.gg/4N4rWBFVKP</h3>
 <h3>YouTube: https://www.youtube.com/@Kimuts</h3>
 <h3>Support Me: https://linktr.ee/kimutkirby </h3>
+
+<img width="2863" height="817" alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/kirbykings%20NSFW%20Media%201.png" />
 
 <img width="1885" height="883" alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1771116079-1210989885.png" />
 
