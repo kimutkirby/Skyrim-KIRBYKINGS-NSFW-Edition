@@ -10,7 +10,7 @@
 - YouTube: https://youtube.com/@Kimuts
 - Support Me: https://paypal.com/paypalme/kimutkirby
 
-## Hard Requirement.
+## 🌟Hard Requirement.
 [Microsoft Visual C++ Redistributable X64](https://aka.ms/vc14/vc_redist.x64.exe)  
 [Skyrim v1.6.1170 (WITHOUT ANNIVERSARY DLC)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition)  
 [Nexus Account](https://www.nexusmods.com)
@@ -27,7 +27,7 @@ Touches every fiber of the game world. From the way you swing your sword to the 
 
 <img width="2863" height="817" alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/kirbykings%20NSFW%20Media%201.png" />
 
-## 🌟 ADDITIONAL QUEST
+## ⚔️ADDITIONAL QUEST
 - Legacy of the Dragonborn V6
 - Wyrmstooth
 - Vigilant
