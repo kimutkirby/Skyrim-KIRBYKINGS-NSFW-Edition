@@ -1,1 +1,39 @@
 
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Skyrim KIRBYKINGS NSFW Edition Modlist",
+    "description": "The Next Generation of Skyrim Immersive Adult Adventure with Graphic Overhauls.",
+    "author": "Kimutkirby",
+    "maintainers": [
+      "github/kimut-kirby"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "NSFW",
+      "Steam",
+      "Total Overhaul"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/kirbykings%20NSFW%20WEBP.webp",
+      "readme": "https://github.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/blob/main/KIRBYKINGS%20NSFW%20TUTORIAL%20INSTALL.pdf",
+      "download": "https://authored-files.wabbajack.org/KIMUT%20Modlist%20(Next-Gen%20Visuals%20with%20Community%20Shaders).wabbajack_79f937a3-3a83-4df0-857b-6ae79962fda8",
+      "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist",
+      "discordURL": "https://discord.com/invite/4N4rWBFVKP"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "X4L32CxA5mo=",
+      "Size": 750941556,
+      "NumberOfArchives": 2325,
+      "SizeOfArchives": 226862599760,
+      "NumberOfInstalledFiles": 374766,
+      "SizeOfInstalledFiles": 353263697113
+    },
+    "version": "1.5.0"
+  }
+]
