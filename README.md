@@ -29,6 +29,9 @@ Touches every fiber of the game world. From the way you swing your sword to the 
   
 <h2>Must Do! for better Gameplay.</h2>
 <h4>Set CPU Affinity & Pagefile: https://www.nexusmods.com/skyrimspecialedition/articles/11617</h4> 
+<h4>BLACK SCREEN ISSUE FIX: https://www.nexusmods.com/skyrimspecialedition/articles/11890</h4>
+<h4>TRUE HUD PERSONAL SETTINGS: https://www.nexusmods.com/skyrimspecialedition/articles/11641</h4>
+<h4>PARALLAXGEN GUIDE: https://www.youtube.com/watch?v=9w-HJ9OFqok</h4>
 
 <h2>Tutorial Installation</h2>
 <h4>PDF Instruction: https://github.com/kimut-kirby/KIMUT-Modlist/blob/main/KIMUT%20Tutorial%20Install.pdf</h4>
