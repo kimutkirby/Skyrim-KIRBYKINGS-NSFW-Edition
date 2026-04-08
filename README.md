@@ -6,7 +6,7 @@
 # 🌟LINKS
 - Nexus: https://nexusmods.com/skyrimspecialedition/mods/176216
 - Discord: https://discord.com/invite/4N4rWBFVKP
-- Load Order Library: https://loadorderlibrary.com/lists/skyrim-kirbykings-nsfw-edition-modlist
+- Load Order Library: https://loadorderlibrary.com/lists/skyrim-kirbykings-nsfw-edition-1-6
 - YouTube: https://youtube.com/@Kimuts
 - Support Me: https://paypal.com/paypalme/kimutkirby
 
