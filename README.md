@@ -3,6 +3,8 @@
 
 <img width="2863" height="817" alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/Kirbykings%20NSFW%20Headpage.jpg" />
 
+# 🌟PLEASE READ THIS IMPORTANT THINGS BEFORE PLAYING: https://www.nexusmods.com/skyrimspecialedition/articles/11908
+
 # 🌟LINKS
 - Nexus: https://nexusmods.com/skyrimspecialedition/mods/176216
 - Discord: https://discord.com/invite/4N4rWBFVKP
