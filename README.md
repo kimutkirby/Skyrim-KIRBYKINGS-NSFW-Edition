@@ -5,15 +5,15 @@
 # 🌟INSTALLATION GUIDE: https://www.nexusmods.com/skyrimspecialedition/articles/11618
 
 # 🌟LINKS
-- Nexus: https://nexusmods.com/skyrimspecialedition/mods/176216
-- Discord: https://discord.com/invite/4N4rWBFVKP
+- Nexus: https://www.nexusmods.com/profile/Kimutkirby
+- Discord Server: https://discord.com/invite/4N4rWBFVKP
 - Load Order Library: https://loadorderlibrary.com/lists/skyrim-kirbykings-nsfw-edition-1-6
 - YouTube: https://youtube.com/@Kimuts
-- Patreon: https://www.patreon.com/11775487/join
+- Support this Modlist: https://www.patreon.com/11775487/join
 
 # 🌟Hard Requirement.
 [Microsoft Visual C++ Redistributable X64](https://aka.ms/vc14/vc_redist.x64.exe)  
-[Skyrim v1.6.1170 (WITHOUT ANNIVERSARY DLC)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition)  
+[The Elder Scrolls V: Skyrim Anniversary Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition)  
 [Nexus Account](https://www.nexusmods.com)
 
 <img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044964-874374357.png" />
@@ -29,7 +29,8 @@ Touches every fiber of the game world. From the way you swing your sword to the 
 <img alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/kirbykings%20NSFW%20Media%201.png" />
 
 ## ⚔️ADDITIONAL QUEST
-- Legacy of the Dragonborn V6
+- Legacy of the Dragonborn v6
+- Beyond Skyrim Bruma
 - Wyrmstooth
 - Vigilant
 - Unslaad
@@ -41,14 +42,13 @@ Touches every fiber of the game world. From the way you swing your sword to the 
 - Baba Yaga & the Labyrinth
 - Paarthurnax
 - Amorous Adventures for Ostim
+- And many more.
 
 <img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044961-761544868.png" />
 
 ## 🌟Must Do! for better Gameplay.
-- INSTALLATION GUIDE: https://github.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/blob/main/KIRBYKINGS%20NSFW%20TUTORIAL%20INSTALL.pdf
 - Set CPU Affinity & Pagefile: https://www.nexusmods.com/skyrimspecialedition/articles/11617
 - BLACK SCREEN ISSUE FIX: https://www.nexusmods.com/skyrimspecialedition/articles/11890
 - TRUE HUD PERSONAL SETTINGS: https://www.nexusmods.com/skyrimspecialedition/articles/11641
-- PARALLAXGEN GUIDE: https://www.youtube.com/watch?v=9w-HJ9OFqok
 
 <img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044960-1839293380.png" />
