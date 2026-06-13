@@ -2,7 +2,7 @@
 
 <h3>The Next Generation of Skyrim Immersive Adult Adventure, designed for players who want a modern, high-fidelity Skyrim experience by leveraging the Community Shaders AIO by Jiaye, achieves stunning lighting, parallax, grass collisions and many more wohooooo!.</h3>
 
-# 🌟PLEASE READ THIS IMPORTANT THINGS BEFORE PLAYING: https://www.nexusmods.com/skyrimspecialedition/articles/11908
+# 🌟INSTALLATION GUIDE: https://www.nexusmods.com/skyrimspecialedition/articles/11618
 
 # 🌟LINKS
 - Nexus: https://nexusmods.com/skyrimspecialedition/mods/176216
