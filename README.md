@@ -1,4 +1,4 @@
-<img alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/Kirbykings%20NSFW%20Tumbnail.jpg" />
+<img alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/Kirbykings%20NSFW%20Headpages.jpg" />
 
 <h3>The Next Generation of Skyrim Immersive Adult Adventure, designed for players who want a modern, high-fidelity Skyrim experience by leveraging the Community Shaders AIO by Jiaye, achieves stunning lighting, parallax, grass collisions and many more wohooooo!.</h3>
 
