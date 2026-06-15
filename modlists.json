@@ -21,19 +21,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/Kirbykings%20NSFW%20WEBPs.webp",
       "readme": "https://github.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Kirbykings%20NSFW.wabbajack_dceb0ca0-205c-496d-9c78-a82676953fcb",
+      "download": "https://authored-files.wabbajack.org/Kirbykings%20NSFW.wabbajack_4ced070d-9dc2-4888-ae4e-10f528517ac7",
       "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist",
       "discordURL": "https://discord.com/invite/4N4rWBFVKP"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "42XGTP6deWA=",
-      "Size": 535993072,
-      "NumberOfArchives": 2633,
-      "SizeOfArchives": 245374809107,
-      "NumberOfInstalledFiles": 460517,
-      "SizeOfInstalledFiles": 410831911667
+      "Hash": "yIq5JRt31EY=",
+      "Size": 541637038,
+      "NumberOfArchives": 2635,
+      "SizeOfArchives": 245444159442,
+      "NumberOfInstalledFiles": 465538,
+      "SizeOfInstalledFiles": 411047083195
     },
-    "version": "2.0.0"
+    "version": "2.1.0"
   }
 ]
