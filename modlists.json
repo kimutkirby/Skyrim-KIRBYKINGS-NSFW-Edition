@@ -3,7 +3,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Skyrim KIRBYKINGS NSFW Edition Modlist",
-    "description": "The Next Generation of Skyrim Immersive Adult Adventure with Graphic Overhauls.",
+    "description": "The Ultimate Next-Gen Skyrim experience is here. Blending breathtaking photorealistic graphics with deep, uncompromised adult immersion, this overhaul redefines what Tamriel can be.",
     "author": "Kimutkirby",
     "maintainers": [
       "github/kimut-kirby"
@@ -21,19 +21,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/Kirbykings%20NSFW%20Headpages%204%20WEBP.webp",
       "readme": "https://github.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20Kirbykings%20NSFW%20Modlist.wabbajack_86942b37-d485-4d03-9eb0-6bc2cd0b4e9f",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20Kirbykings%20NSFW%20Modlist.wabbajack_b3853be0-9fec-492a-a866-e1883dbb4c0d",
       "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist",
       "discordURL": "https://discord.com/invite/4N4rWBFVKP"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Yz6N4Y5JkHg=",
-      "Size": 552447452,
-      "NumberOfArchives": 2663,
-      "SizeOfArchives": 247923119284,
-      "NumberOfInstalledFiles": 468390,
-      "SizeOfInstalledFiles": 414942917161
+      "Hash": "HqElYU2eWws=",
+      "Size": 569196664,
+      "NumberOfArchives": 2698,
+      "SizeOfArchives": 258075955516,
+      "NumberOfInstalledFiles": 490552,
+      "SizeOfInstalledFiles": 429457392756
     },
-    "version": "2.6.0"
+    "version": "2.7.0"
   }
 ]
