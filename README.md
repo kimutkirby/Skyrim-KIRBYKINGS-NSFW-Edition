@@ -4,6 +4,8 @@
 
 # 🌟INSTALLATION GUIDE: https://www.nexusmods.com/skyrimspecialedition/articles/11618
 
+# 🌟Additional Installation for DBVO Voice Packs: https://www.nexusmods.com/skyrimspecialedition/articles/12203
+
 # 🌟LINKS
 - Nexus: https://www.nexusmods.com/profile/Kimutkirby
 - Discord Server: https://discord.com/invite/4N4rWBFVKP
