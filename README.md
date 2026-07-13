@@ -9,7 +9,7 @@
 # 🌟LINKS
 - Nexus: https://www.nexusmods.com/profile/Kimutkirby
 - Discord Server: https://discord.com/invite/4N4rWBFVKP
-- Load Order Library: https://loadorderlibrary.com/lists/skyrim-kirbykings-nsfw-edition-1-6
+- Load Order Library: https://loadorderlibrary.com/lists/kirbykings-nsfw-edition-modlist-2-9-1
 - YouTube: https://youtube.com/@Kimuts
 - Support this Modlist: https://www.patreon.com/11775487/join
 
