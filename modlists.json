@@ -21,19 +21,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/Kirbykings%20NSFW%20Headpages%204%20WEBP.webp",
       "readme": "https://github.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim Kirbykings NSFW Modlist.wabbajack_830d423c-beb9-4380-b811-5dc959a752c7",
+      "download": "https://authored-files.wabbajack.org/Kirbykings%20Modlist%20NSFW%20Edition.wabbajack_d400365b-b5c1-4ab1-9262-9cec6e9728c7",
       "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist",
       "discordURL": "https://discord.com/invite/4N4rWBFVKP"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "VyzfdTWzN6o=",
-      "Size": 626703808,
-      "NumberOfArchives": 2758,
-      "SizeOfArchives": 276217203819,
-      "NumberOfInstalledFiles": 510413,
-      "SizeOfInstalledFiles": 433000680020
+      "Hash": "BT9/7fxD5e4=",
+      "Size": 592974186,
+      "NumberOfArchives": 2784,
+      "SizeOfArchives": 247990204762,
+      "NumberOfInstalledFiles": 534569,
+      "SizeOfInstalledFiles": 420400462817
     },
-    "version": "2.9.2"
+    "version": "2.9.3"
   }
 ]
