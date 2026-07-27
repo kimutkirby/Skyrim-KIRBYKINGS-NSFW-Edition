@@ -15,9 +15,9 @@
 
 # 🌟Requirements
 [NET 8.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer) 
-[Microsoft Visual C++ Redistributable X86](https://aka.ms/vc14/vc_redist.x86.exe)  
-[Microsoft Visual C++ Redistributable X64](https://aka.ms/vc14/vc_redist.x64.exe)  
-[The Elder Scrolls V: Skyrim Anniversary Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition)  
+[Microsoft Visual C++ Redistributable X86](https://aka.ms/vc14/vc_redist.x86.exe) 
+[Microsoft Visual C++ Redistributable X64](https://aka.ms/vc14/vc_redist.x64.exe) 
+[The Elder Scrolls V: Skyrim Anniversary Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition) 
 [Nexus Account](https://www.nexusmods.com)
 
 <img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044964-874374357.png" />
