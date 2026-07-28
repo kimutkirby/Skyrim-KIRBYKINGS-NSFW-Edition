@@ -50,9 +50,4 @@ Touches every fiber of the game world. From the way you swing your sword to the 
 
 <img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044961-761544868.png" />
 
-## 🌟Must Do! for better Gameplay.
-- Set CPU Affinity & Pagefile: https://www.nexusmods.com/skyrimspecialedition/articles/11617
-- BLACK SCREEN ISSUE FIX: https://www.nexusmods.com/skyrimspecialedition/articles/11890
-- TRUE HUD PERSONAL SETTINGS: https://www.nexusmods.com/skyrimspecialedition/articles/11641
-
 <img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044960-1839293380.png" />
