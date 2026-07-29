@@ -4,16 +4,14 @@
 
 # 🌟INSTALLATION GUIDE: https://www.nexusmods.com/skyrimspecialedition/articles/11618
 
-# 🌟Additional Installation for DBVO Voice Packs: https://www.nexusmods.com/skyrimspecialedition/articles/12203
-
-# 🌟LINKS
+## 🌟LINKS
 - Nexus: https://www.nexusmods.com/profile/Kimutkirby
 - Discord Server: https://discord.com/invite/4N4rWBFVKP
-- Load Order Library: https://loadorderlibrary.com/lists/kirbykings-modlist-nsfw-edition
+- Load Order Library: https://loadorderlibrary.com/lists/kirbykings-modlist-nsfw-edition-2
 - YouTube: https://youtube.com/@Kimuts
 - Support this Modlist: https://www.patreon.com/11775487/join
 
-# 🌟Requirements
+## 🌟Requirements
 - [NET 8.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer) 
 - [Microsoft Visual C++ Redistributable X86](https://aka.ms/vc14/vc_redist.x86.exe) 
 - [Microsoft Visual C++ Redistributable X64](https://aka.ms/vc14/vc_redist.x64.exe) 
