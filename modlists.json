@@ -39,5 +39,43 @@
       "SizeOfInstalledFiles": 412245258523
     },
     "version": "2.9.6"
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Kirbykings Modlist",
+    "description": "The Next Generation of Skyrim Evolution Powered by Community Shaders. ﻿Experience Skyrim through A New Lens, by leveraging Advanced Complex Materials & PBR, Transforms every surface into a masterpiece of light and shadow.",
+    "author": "Kimutkirby",
+    "maintainers": [
+      "github/kimut-kirby"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Anniversary Edition",
+      "MCO",
+      "Total Overhaul"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/kimutkirby/Kirbykings-Modlist/refs/heads/main/Kirbykings%20Tumbnail%20WEBP.webp",
+      "readme": "https://github.com/kimutkirby/Kirbykings-Modlist/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Kirbykings%20Modlist.wabbajack_da0c9ea7-42bf-4204-8eba-0edb551e391e",
+      "machineURL": "KirbykingsModlist",
+      "discordURL": "https://discord.com/invite/4N4rWBFVKP"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "01McXA4dM0A=",
+      "Size": 573321788,
+      "NumberOfArchives": 2703,
+      "SizeOfArchives": 234678790100,
+      "NumberOfInstalledFiles": 448579,
+      "SizeOfInstalledFiles": 393416708476
+    },
+    "version": "2.6.3"
   }
 ]
