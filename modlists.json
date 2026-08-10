@@ -77,5 +77,44 @@
       "SizeOfInstalledFiles": 393416708476
     },
     "version": "2.6.3"
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Kirbylite (Lightweight Modlist)",
+    "description": "Kirbylite is a lightweight modlist for Skyrim Special Edition built as an “entry level modern Skyrim” focused on stability, performance, and a vanilla plus feel, powered by MCO combat and Community Shaders. It delivers smooth, animation driven combat, a subtle yet modern visual overhaul, and keeps vanilla perks and UI.",
+    "author": "Kimutkirby",
+    "maintainers": [
+      "github/kimut-kirby"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Vanilla Plus",
+      "Anniversarry Edition",
+      "Lightweight",
+      "Steam",
+      "Total Overhaul"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/kimutkirby/Kirbylite-Modlist/refs/heads/main/Kirbylite%20Tumbnail%20WEBP2.webp",
+      "readme": "https://github.com/kimutkirby/Kirbylite-Modlist/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Kirbylite%20Modlist.wabbajack_147269ba-0d8a-4876-ba30-e6695bfb966b",
+      "machineURL": "KirbyliteModlist",
+      "discordURL": "https://discord.com/invite/4N4rWBFVKP"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "mIplovDIEkw=",
+      "Size": 408087961,
+      "NumberOfArchives": 1695,
+      "SizeOfArchives": 154943028341,
+      "NumberOfInstalledFiles": 221627,
+      "SizeOfInstalledFiles": 241904589546
+    },
+    "version": "1.0.0"
   }
 ]
