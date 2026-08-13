@@ -43,7 +43,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Kirbykings Modlist",
-    "description": "The Next Generation of Skyrim Evolution Powered by Community Shaders. ﻿Experience Skyrim through A New Lens, by leveraging Advanced Complex Materials & PBR, Transforms every surface into a masterpiece of light and shadow.",
+    "description": "The Next Generation of Skyrim Evolution Powered by Community Shaders. Experience Skyrim through a new lens by leveraging Advanced Complex Materials and PBR. Transform every surface into a masterpiece of light and shadow.",
     "author": "Kimutkirby",
     "maintainers": [
       "github/kimut-kirby"
@@ -90,8 +90,9 @@
     "tags": [
       "SFW",
       "Vanilla Plus",
-      "Anniversarry Edition",
+      "Anniversary Edition",
       "Lightweight",
+      "MCO",
       "Steam",
       "Total Overhaul"
     ],
