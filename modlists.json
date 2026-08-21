@@ -31,14 +31,14 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "9nPAh6KAQoE=",
-      "Size": 569237373,
-      "NumberOfArchives": 2775,
-      "SizeOfArchives": 235780673457,
-      "NumberOfInstalledFiles": 552848,
-      "SizeOfInstalledFiles": 412245258523
+      "Hash": "TTzGIjlyMFw=",
+      "Size": 1147566186,
+      "NumberOfArchives": 2762,
+      "SizeOfArchives": 242947420830,
+      "NumberOfInstalledFiles": 602379,
+      "SizeOfInstalledFiles": 413464890809
     },
-    "version": "2.9.6"
+    "version": "2.9.8"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
