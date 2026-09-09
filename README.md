@@ -18,7 +18,7 @@
 - [The Elder Scrolls V: Skyrim Anniversary Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition) 
 - [Nexus Account](https://www.nexusmods.com)
 
-<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044964-874374357.png" />
+<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1788960828-641588703.png" />
 
 ## ⚔️ A COMPLETE OVERHAUL
 Touches every fiber of the game world. From the way you swing your sword to the way the world breathes around you, everything has been modernized:
