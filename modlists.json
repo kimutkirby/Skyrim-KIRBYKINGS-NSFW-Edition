@@ -63,18 +63,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/kimutkirby/Kirbykings-Modlist/refs/heads/main/Kirbykings%202.6.7%20WEBP.webp",
       "readme": "https://github.com/kimutkirby/Kirbykings-Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Kirbykings%20Modlist.wabbajack_ef3655de-3634-40f7-a764-2e02b4a19696",
+      "download": "https://authored-files.wabbajack.org/Kirbykings%20Modlist.wabbajack_3828dea4-fb3a-4b71-af92-93a3ccce0978",
       "machineURL": "KirbykingsModlist",
       "discordURL": "https://discord.com/invite/4N4rWBFVKP"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "i4PEtjZD064=",
-      "Size": 1170640112,
+      "Hash": "IwnIUs0q628=",
+      "Size": 1170643117,
       "NumberOfArchives": 2763,
       "SizeOfArchives": 262048826498,
-      "NumberOfInstalledFiles": 540879,
-      "SizeOfInstalledFiles": 448019917471
+      "NumberOfInstalledFiles": 540880,
+      "SizeOfInstalledFiles": 448019930495
     },
     "version": "2.6.9"
   },
