@@ -103,19 +103,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/kimutkirby/Kirbylite-Modlist/refs/heads/main/Kirbylite%20Tumbnail%20WEBP2.webp",
       "readme": "https://github.com/kimutkirby/Kirbylite-Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Kirbylite%20Modlist.wabbajack_147269ba-0d8a-4876-ba30-e6695bfb966b",
+      "download": "https://authored-files.wabbajack.org/Kirbylite%20Modlist.wabbajack_d3d58b4d-1602-416f-8bef-7c761f152a7c",
       "machineURL": "KirbyliteModlist",
       "discordURL": "https://discord.com/invite/4N4rWBFVKP"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "mIplovDIEkw=",
-      "Size": 408087961,
-      "NumberOfArchives": 1695,
-      "SizeOfArchives": 154943028341,
-      "NumberOfInstalledFiles": 221627,
-      "SizeOfInstalledFiles": 241904589546
+      "Hash": "dFNnB6eiymY=",
+      "Size": 456877751,
+      "NumberOfArchives": 1673,
+      "SizeOfArchives": 175032091268,
+      "NumberOfInstalledFiles": 202044,
+      "SizeOfInstalledFiles": 251255421780
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
   }
 ]
